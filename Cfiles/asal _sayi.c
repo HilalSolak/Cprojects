@@ -1,4 +1,4 @@
-//klavyeden girilen bir sayidan sonraki ilk 5 asal sayiyi bulan ve ekranda gösterelim
+//klavyeden girilen bir sayidan sonraki ilk 5 asal sayiyi bulan ve ekranda gÃ¶sterelim
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -23,7 +23,7 @@ int asal_mi(int n)
 main()
 {
     int sayi,c=0;
-    printf("sayi gir bacim\n");
+    printf("sayi giriniz:\n");
     scanf("%d",&sayi);
 
     while(true)
